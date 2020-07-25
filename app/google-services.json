@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "563317222107",
+    "firebase_url": "https://thephylancer.firebaseio.com",
+    "project_id": "thephylancer",
+    "storage_bucket": "thephylancer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563317222107:android:2814a70c4a1802be",
+        "android_client_info": {
+          "package_name": "com.example.sumonpaul.thephylancer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563317222107-tnfulfasjtrfpt1cot1om01litj144mp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sumonpaul.thephylancer",
+            "certificate_hash": "b5b9eafa439e7cd06ab7579a611a3fa25d653a67"
+          }
+        },
+        {
+          "client_id": "563317222107-utds3j1kecsjqda44qjgur3lbj2c8v37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVkTcBKPov1o5PtG9mw9w2Ia2BHwDwn8A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563317222107-utds3j1kecsjqda44qjgur3lbj2c8v37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Thephylancer</string>
+    <string name="welcome_to_phylancer">Welcome to Phylancer</string>
+    <string name="your_email">Your Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="loginRegButton">Not a Member Yet??</string>
+    <string name="action_search">Search</string>
+    <string name="action_accont_settings">Accont Settings</string>
+    <string name="action_logout">Logout</string>
+    <string name="be_a_phylancer">Be a Phylancer</string>
+    <string name="join_us">Join Us</string>
+    <string name="already_a_member">Already A Member?</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="your_full_name">Your Full Name</string>
+    <string name="age">Age</string>
+    <string name="your_location_must">Your Location(MUST)</string>
+    <string name="sava_data">Sava Data</string>
+    <string name="male_female">Male/Female</string>
+    <string name="job_description_here">Job Description Here</string>
+    <string name="job_area_location">Job Area(Location)</string>
+    <string name="post_job">Post Job</string>
+    <string name="contact_no">Contact NO :</string>
+    <string name="amount">Amount</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bottom_home">Home</string>
+    <string name="bottom_notifications">Notifications</string>
+    <string name="bottom_acount">Acount</string>
+</resources>
